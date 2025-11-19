@@ -3,7 +3,7 @@
     "displayName": "Arc Dark Theme",
     "icon": "icon.png",
     "description": "Arc Dark theme for VS Code based on the popular Arc Dark color scheme",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "publisher": "WillCygan",
     "engines": {
         "vscode": "^1.80.0"
