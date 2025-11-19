@@ -15,8 +15,8 @@ A dark theme for Visual Studio Code based on the popular Arc Dark color scheme.
 
 ## Screenshots
 
-![Theme Example 1](images/theme-example-1.png)
-![Theme Example 2](images/theme-example-2.png)
+![Theme Example 1](https://raw.githubusercontent.com/wcygan/arc-dark-vscode/main/images/theme-example-1.png)
+![Theme Example 2](https://raw.githubusercontent.com/wcygan/arc-dark-vscode/main/images/theme-example-2.png)
 
 ## Credits
 
