@@ -1,0 +1,34 @@
+{
+    "name": "arc-dark-theme",
+    "displayName": "Arc Dark Theme",
+    "icon": "icon.png",
+    "description": "Arc Dark theme for VS Code based on the popular Arc Dark color scheme",
+    "version": "1.0.0",
+    "publisher": "wcygan",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "arc",
+        "arc dark"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wcygan/arc-dark-vscode"
+    },
+    "license": "MIT",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Arc Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/arc-dark-color-theme.json"
+            }
+        ]
+    }
+}
