@@ -11,9 +11,12 @@ A dark theme for Visual Studio Code based on the popular Arc Dark color scheme.
 5. Go to Code > Preferences > Color Theme
 6. Select "Arc Dark"
 
+[Marketplace Link](https://marketplace.visualstudio.com/items?itemName=WillCygan.arc-dark-theme)
+
 ## Screenshots
 
-[Add screenshots here]
+![Theme Example 1](images/theme-example-1.png)
+![Theme Example 2](images/theme-example-2.png)
 
 ## Credits
 
